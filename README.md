@@ -2,6 +2,9 @@
 
 This repository contains everything what I've learned and done during my Internship in Sportradar company. 
 We used JavaScript for automation tests using Cypress.
+During the Internship I also did Exploratory session with final report with things for improvement and also with bugs which I found.
+I was preparing test cases and test scenarios as well.
+
 ## Amazon.de automation test during Black Friday 
 
 [Amazon_basket](https://github.com/Nieoczywiste-historie/Sportradar-Tester-Academy/blob/main/amazon_basket.cy.js)
